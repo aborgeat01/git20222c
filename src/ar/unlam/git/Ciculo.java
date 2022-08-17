@@ -2,7 +2,8 @@ package ar.unlam.git;
 
 public class Ciculo {
 	
-	public void x (int valor) {
+	public void x (int valores) {
+		System.out.println("aaaaaaaa");
 		System.out.println();
 	}
 
